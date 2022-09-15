@@ -1,9 +1,7 @@
 <h1>BingoVerifer</h1>
 A program that intakes a player's bingo card, a sequence of called numbers, and a pattern card as input and returns whether or not the player has one the game
 
-# Rules of the game 
-
-Sample Input/Outputs
+<h2>Sample Input/Outputs</h2>
 
 INPUT_FOR_RUN001:
 1 0 0 0 0
